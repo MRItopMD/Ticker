@@ -1,1 +1,1 @@
-#####Virtual Ticker
+# Virtual Ticker
